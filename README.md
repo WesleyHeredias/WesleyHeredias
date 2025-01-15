@@ -103,7 +103,7 @@ Me chamo Wesley Heredias, tenho 31 anos e sou natural de São Paulo/SP. Concluí
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyheredias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyheredias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=99" 
   />
 
 </p>
